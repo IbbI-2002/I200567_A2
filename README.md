@@ -1,2 +1,2 @@
 # I200567_A2
- Student in MLOpsss
+ Student in MLOps
